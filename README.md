@@ -1,3 +1,3 @@
 # SPOOL_Check
 
-ReactJS로 앱 만들기
+React로 앱 만들기
